@@ -29,7 +29,7 @@ and observability, and have led teams and engineering processes.
 
 ## Experience
 ### Paxful Inc — Senior Software Engineer
-Aug 2023 — Present, remote (contractor)
+Aug 2023 — November 2025, remote (contractor)
 - Phone anti‑fraud verification (Twilio, Emailage)
 - Dynamic Bitcoin on‑chain fee calculator
 - Smart geolocation service and KYT integrations
